@@ -1,2 +1,2 @@
-# linux_overthewire-bandit
+# Overthewire Bandit Write-Up
 Overthewire Bandit Writeup
